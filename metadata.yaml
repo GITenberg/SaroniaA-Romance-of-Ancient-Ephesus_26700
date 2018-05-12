@@ -1,0 +1,26 @@
+_repo: SaroniaA-Romance-of-Ancient-Ephesus_26700
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Short, Richard
+    gutenberg_agent_id: '32185'
+    url: http://www.gutenberg.org/2009/agents/32185
+description: ''
+gutenberg_issued: '2008-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26700'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ephesus (Extinct city) -- Fiction'
+title: 'Saronia
+
+  A Romance of Ancient Ephesus'
+url: http://www.gutenberg.org/ebooks/26700
